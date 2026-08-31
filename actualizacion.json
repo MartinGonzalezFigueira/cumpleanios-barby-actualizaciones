@@ -1,10 +1,4 @@
 {
-    "version": 1,
-    "archivos": [
-        {
-            "carpeta": "Test",
-            "nombre": "01_hola.txt",
-            "url": "https://raw.githubusercontent.com/MartinGonzalezFigueira/cumpleanios-barby-actualizaciones/main/galeria/Test/01_hola.txt"
-        }
-    ]
+    "version": 0,
+    "archivos": []
 }
